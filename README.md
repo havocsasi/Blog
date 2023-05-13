@@ -5,11 +5,11 @@
 
 # To Do List
 
-![ToDoList](https://socialify.git.ci/tusharnankani/ToDoList/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![ToDoList](https://socialify.git.ci/havocsasi/todo-list/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 #### This web page is hosted [here!](https://tusharjustdoit.netlify.app/)
 
-- View the local installation in the [CONTRUBUTING.md](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md).
+- View the local installation in the [CONTRUBUTING.md](https://github.com/havocsasi/todo-list/blob/master/CONTRIBUTING.md).
 
 ### *Features*:
 
@@ -21,7 +21,7 @@
 
 ### *Features to be added*:
 
-Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributing to this repository.
+Check [Issues](https://github.com/havocsasi/todo-list/issues) for contributing to this repository.
 
 * SubTasks: Adding subtasks to the enlisted tasks, could be an option.
 * Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
@@ -44,8 +44,8 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 # *Contributions*
 
 - All contributors are most welcome! This is definitely open source!
-- View the [`CONTRIBUTING.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
-- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/tusharnankani/ToDoList/blob/master/CONTRIBUTORS.md) file!
+- View the [`CONTRIBUTING.md`](https://github.com/havocsasi/todo-list/blob/master/CONTRIBUTING.md) for further instructions, requirements/dependencies & local project setup instructions!
+- All the contributors to this repository can be found in the [`CONTRIBUTORS.md`](https://github.com/havocsasi/todo-list/blob/master/CONTRIBUTORS.md) file!
 
 ## *WEBSITE DEMO*
 
@@ -56,8 +56,3 @@ Check [Issues](https://github.com/tusharnankani/ToDoList/issues) for contributin
 ![Screenshot (773)](https://user-images.githubusercontent.com/61280281/99399728-0d096d00-290c-11eb-9ee5-59cc8358676c.png)
 
 ![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
-
-# *Author*
-
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/tusharnankani)
